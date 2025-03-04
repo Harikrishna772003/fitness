@@ -1,6 +1,5 @@
 import os
 os.system("pip install matplotlib")
-git push origin main
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
