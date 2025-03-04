@@ -1,4 +1,8 @@
 streamlit
 pip install streamlit
+scikit-learn
+pip install scikit-learn
+
+
 
 
