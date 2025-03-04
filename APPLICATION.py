@@ -1,3 +1,8 @@
+import os
+os.system("pip install matplotlib")
+git add app.py
+git commit -m "Fix ModuleNotFoundError by installing Matplotlib"
+git push origin main
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
