@@ -1,7 +1,5 @@
-streamlit
-pip install streamlit
-scikit-learn
-pip install scikit-learn
+pip install streamlit numpy pandas scikit-learn matplotlib seaborn
+
 
 
 
